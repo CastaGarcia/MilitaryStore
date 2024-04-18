@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilitaryStore", "MilitaryStore\MilitaryStore.csproj", "{E9DB1928-3977-4814-A185-A7C759F7436C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaDLL", "LibreriaDLL\LibreriaDLL.csproj", "{1D7A7D58-48B2-45FD-B706-BDC6A348C6D7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{8681E551-9807-40E5-915D-F725C153C527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9DB1928-3977-4814-A185-A7C759F7436C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DB1928-3977-4814-A185-A7C759F7436C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DB1928-3977-4814-A185-A7C759F7436C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DB1928-3977-4814-A185-A7C759F7436C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D7A7D58-48B2-45FD-B706-BDC6A348C6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7A7D58-48B2-45FD-B706-BDC6A348C6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7A7D58-48B2-45FD-B706-BDC6A348C6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7A7D58-48B2-45FD-B706-BDC6A348C6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8681E551-9807-40E5-915D-F725C153C527}.Debug|Any CPU.ActiveCfg = Debug
+		{8681E551-9807-40E5-915D-F725C153C527}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F84D0A80-1CB6-4D48-BE09-A25F3A23B1B7}
+	EndGlobalSection
+EndGlobal
